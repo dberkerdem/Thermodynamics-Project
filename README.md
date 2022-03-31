@@ -1,5 +1,5 @@
 # **Thermodynamics Project (ChE321)**
-## Authors: *Daglar Berk Erdem* & *Berk Korkut* & *Zeynep Otan*
+## Authors: *Daglar Berk Erdem*
 ## Introduction
 Project is based on the understanding of the vapor-liquid equilibrium (VLE). Equilibrium means a static condition in which no changes occur in the macroscopic properties of a system in a time. In the job of engineering, such equilibrium conditions are very important. So, for the engineers writing this kind of programs are necessary. The scope of this project is to write a program which calculates Bubble, Dew Temperature&Pressure and Flash Calculations based on following formulations:
 * Raoult's Law (RL)
